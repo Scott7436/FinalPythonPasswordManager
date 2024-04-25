@@ -81,6 +81,7 @@ def generate_password():
 def main():
     while True:
         print("Password Manager")
+        print("Enter a number between 1-6:")
         print("1. Add Password")
         print("2. Retrieve Password")
         print("3. Update Password")
